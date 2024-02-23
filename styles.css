@@ -5,7 +5,7 @@ width: 100%;
 heigt: 100%;
 display: flex;
 flex-flow: row nowrap;
-align-itens: center;
+align-items: center;
 justify-content: center;
 }
 html, body{
